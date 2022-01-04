@@ -1,0 +1,2 @@
+steal(password)
+print(password)
