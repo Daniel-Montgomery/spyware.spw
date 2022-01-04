@@ -1,1 +1,1 @@
-# spyware.spw
+# lma o spywrae
